@@ -1,6 +1,6 @@
 ## Let's Learn Everything about React in this respiratory.
 <hr />
-### Every topic is explained in one branch. 
+Every topic is explained in one branch. 
 
 <ol>
                 <li>
