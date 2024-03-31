@@ -1,8 +1,4 @@
 # Let's Learn Everything about React in this respiratory.
-
-### we are going to cover all these topics in this tutorial in detail. 
-
-
 ### Every topic is explained in one branch. 
 
 <ol>
